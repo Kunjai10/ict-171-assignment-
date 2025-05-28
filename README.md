@@ -13,8 +13,7 @@
 This project demonstrates my ability to deploy and configure a cloud-based web server using Amazon EC2, following the lab instructions. The server hosts a clothing store website and is linked to a custom GoDaddy domain.
 
 ---
-
-## 🔧 Project Components
+ Project Components
 
 - EC2 Free Tier Ubuntu instance
 - Apache web server setup via Bash script
@@ -24,7 +23,7 @@ This project demonstrates my ability to deploy and configure a cloud-based web s
 
 ---
 
-## 📂 Repo Structure
+ Repo Structure
 
 - `documentation/`: Final report Word doc
 - `scripts/`: Apache install bash script
@@ -33,13 +32,13 @@ This project demonstrates my ability to deploy and configure a cloud-based web s
 
 ---
 
-## 🎥 Video Explainer
+🎥 Video Explainer
 
 **Link**: [Insert your YouTube or Google Drive video link here]
 
 ---
 
-## 📅 Timeline
+Timeline
 
 | Date        | Task                                 |
 |-------------|--------------------------------------|
